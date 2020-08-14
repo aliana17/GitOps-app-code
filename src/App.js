@@ -4,7 +4,7 @@ import './App.css';
 
 class App extends Component {
   state = {
-    storename: ['nisha', 'varun']
+    storename: ['nisha', 'varun', 'daizy']
   }
 
   saveNameHandler= (input)=> {
