@@ -6,3 +6,6 @@ Jenkins
 Github
 Kubernetes
 Docker 
+
+Requirements:
+Linux 
